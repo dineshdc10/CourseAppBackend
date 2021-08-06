@@ -1,0 +1,12 @@
+{
+    "appsys": {
+        "port": 5001
+    },
+    "db": {
+        "user": "dbuser",
+        "pass": "dqWDTSfAMVLMFTBt",
+        "host": "@cluster0.9ewnv.mongodb.net",
+        "port": 27017,
+        "name": "Courseapp"
+    }
+}
